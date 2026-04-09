@@ -2,20 +2,20 @@
   "url_paths": [
     {
       "path": "/hc-themes/",
-      "ttl": 31536000000
+      "ttl": 2592000000
     },
     {
       "path": "/android/helpcenter.js",
-      "ttl": 31536000000
+      "ttl": 2592000000
     },
     {
       "path": "/dashboard-resources/",
-      "ttl": 31536000000
+      "ttl": 2592000000
     },
     {
       "path": "/hc-sdkx/",
-      "ttl": 31536000000
+      "ttl": 2592000000
     }
   ],
-  "ttl": 31536000000
+  "ttl": 2592000000
 }
